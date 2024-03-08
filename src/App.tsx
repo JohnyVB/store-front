@@ -1,10 +1,11 @@
 import { HeaderApp } from "./components/HeaderApp";
+import { AppRouter } from "./router/AppRouter";
 
 function App() {
   return (
     <div>
       <HeaderApp />
-      <h1>Hello, world!</h1>
+      <AppRouter />
     </div>
   );
 }
