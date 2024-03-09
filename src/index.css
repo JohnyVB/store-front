@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+   background-color: rgb(240, 240, 240);
+}
+
+.activeItemHeader {
+   background-color: #759eef;
+   font-weight: 600;
+   padding: 0.5rem 1rem;
+   border-radius: 5px;
+}
+
+.active {
+   background-color: #dedede;
+   font-weight: 600;
+   padding: 0.5rem 1rem;
+   border-radius: 5px;
+}

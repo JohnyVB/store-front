@@ -1,0 +1,7 @@
+export * from './HomePage'
+export * from './AdminPage'
+export * from './LoginPage'
+export * from './FavoritesPage'
+export * from './MyShoppingPage'
+export * from './ShoppingCarPage'
+export * from './NotFoundPage'
